@@ -1,6 +1,6 @@
-package com.oo.dao.cliente;
+package com.projeto.dao.cliente;
 
-import com.oo.models.cliente.Cliente;
+import com.projeto.models.cliente.Cliente;
 
 public class ClienteDaoArray implements ClienteDao {
     private static final ClienteDaoArray INSTANCIA = new ClienteDaoArray();

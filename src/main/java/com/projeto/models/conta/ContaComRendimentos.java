@@ -1,4 +1,4 @@
-package com.oo.models.conta;
+package com.projeto.models.conta;
 
 import java.math.BigDecimal;
 

@@ -1,6 +1,6 @@
-package com.oo.models.cliente;
+package com.projeto.models.cliente;
 
-import com.oo.models.conta.Conta;
+import com.projeto.models.conta.Conta;
 
 import java.util.List;
 

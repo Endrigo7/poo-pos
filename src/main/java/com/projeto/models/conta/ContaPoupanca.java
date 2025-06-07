@@ -1,4 +1,4 @@
-package com.oo.models.conta;
+package com.projeto.models.conta;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

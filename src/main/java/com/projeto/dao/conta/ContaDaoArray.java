@@ -1,6 +1,6 @@
-package com.oo.dao.conta;
+package com.projeto.dao.conta;
 
-import com.oo.models.conta.Conta;
+import com.projeto.models.conta.Conta;
 
 public class ContaDaoArray implements ContaDao {
     private static final ContaDaoArray INSTANCIA = new ContaDaoArray();

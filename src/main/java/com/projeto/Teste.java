@@ -1,13 +1,11 @@
-package com.oo;
+package com.projeto;
 
-import com.oo.dao.cliente.ClienteDao;
-import com.oo.dao.cliente.ClienteDaoArray;
-import com.oo.dao.cliente.ClienteDaoList;
-import com.oo.models.cliente.Cliente;
-import com.oo.models.conta.Conta;
-import com.oo.models.conta.ContaCDB;
-import com.oo.models.conta.ContaCorrente;
-import com.oo.models.conta.ContaPoupanca;
+import com.projeto.dao.cliente.ClienteDao;
+import com.projeto.dao.cliente.ClienteDaoList;
+import com.projeto.models.cliente.Cliente;
+import com.projeto.models.conta.ContaCDB;
+import com.projeto.models.conta.ContaCorrente;
+import com.projeto.models.conta.ContaPoupanca;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
