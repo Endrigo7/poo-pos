@@ -13,6 +13,7 @@ import java.math.RoundingMode;
 public abstract class Conta {
     public String numero;
     private BigDecimal saldo;
+    private String senha;
 
     private static int numeroConta = 1;
 
